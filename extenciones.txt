@@ -1,0 +1,16 @@
+
+
+Si no tienes las extenciones aqui estan los comandos:
+
+-Puedes descargarlas por separado:
+    pip install tkMessageBox
+    pip install customtkinter
+    pip install mysql-connector-python
+    pip install python-dotenv
+    pip install pandas
+
+Tambien puedes instalarlas juntas en un solo comando:
+
+pip install customtkinter tkMessageBox mysql-connector-python-dotenv pandas
+
+nota: Aun no funciona exportar xd
